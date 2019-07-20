@@ -1,2 +1,2 @@
 # Repository2
-trying to get hands on withgithub
+trying to get hands on with github
